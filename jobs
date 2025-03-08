@@ -1,7 +1,93 @@
 [
-  { "title": "farm worker", "location": "lon lon ranch", "salary": 30000, "id": "1" },
-  { "title": "quarryman", "location": "death mountain", "salary": 40000, "id": "2" },
-  { "title": "flute player", "location": "the lost woods", "salary": 35000, "id": "3" },
-  { "title": "fisherman", "location": "lake hylia", "salary": 21000, "id": "4" },
-  { "title": "prison guard", "location": "gerudo valley", "salary": 32000, "id": "5" }
+  {
+    "title": "Pásztor",
+    "location": "Hortobágy",
+    "salary": 280000,
+    "id": "1",
+    "description": "A pásztor a jószágok legeltetéséért és gondozásáért felel. Ismeri az állatok viselkedését és a természet törvényeit. Napjai nagy részét a pusztán tölti, ahol a hagyományos pásztorkultúrát őrzi."
+  },
+  {
+    "title": "Kőfaragó",
+    "location": "Bükk hegység",
+    "salary": 350000,
+    "id": "2",
+    "description": "A kőfaragó mesterség évezredes hagyományokra épül. Kézzel vagy gépekkel formálja a természetes követ építészeti és díszítőelemekké. Munkája nagy precizitást és művészi érzéket igényel."
+  },
+  {
+    "title": "Népzenész",
+    "location": "Mezőkövesd",
+    "salary": 300000,
+    "id": "3",
+    "description": "A népzenész hagyományos dallamokat játszik különböző hangszereken. Részt vesz táncházakban, fesztiválokon és egyéb kulturális eseményeken. Fontos szerepet tölt be a magyar népzenei örökség megőrzésében."
+  },
+  {
+    "title": "Halász",
+    "location": "Balaton",
+    "salary": 220000,
+    "id": "4",
+    "description": "A halász korán kel, hogy kifogja a legjobb zsákmányt a tóból. Ismeri a víz áramlásait és a különböző halfajták viselkedését. Munkája kemény fizikai erőnlétet és kitartást igényel."
+  },
+  {
+    "title": "Börtönőr",
+    "location": "Szeged",
+    "salary": 330000,
+    "id": "5",
+    "description": "A börtönőr a fogvatartottak biztonságát és a rend fenntartását felügyeli. Felel a szabályok betartásáért és a börtön működésének zavartalanságáért. Munkája nagy felelősséggel és stresszel jár."
+  },
+  {
+    "title": "Mézeskalács-készítő",
+    "location": "Debrecen",
+    "salary": 250000,
+    "id": "6",
+    "description": "A mézeskalács-készítés régi magyar hagyomány, amely sok kézügyességet igényel. A mesterek saját recept alapján készítik a tésztát és különféle mintákkal díszítik. Ezek a finomságok gyakran ajándékként vagy ünnepi dekorációként szolgálnak."
+  },
+  {
+    "title": "Csikós",
+    "location": "Kiskunság",
+    "salary": 270000,
+    "id": "7",
+    "description": "A csikós a magyar puszta ikonikus alakja, aki a lovak idomításában jártas. Speciális bemutatókon mutatja be tudását és a hagyományos lovas kultúrát. Ősi tudás és modern technikák ötvözésével dolgozik."
+  },
+  {
+    "title": "Pék",
+    "location": "Győr",
+    "salary": 280000,
+    "id": "8",
+    "description": "A pék friss kenyereket és péksüteményeket készít hajnalban. Különleges recepteket használ, hogy a legjobb ízeket hozza létre. Munkája fizikailag megterhelő, de nagy megbecsülésnek örvend."
+  },
+  {
+    "title": "Fafaragó",
+    "location": "Kalotaszeg",
+    "salary": 290000,
+    "id": "9",
+    "description": "A fafaragó hagyományos technikákat alkalmaz a díszített tárgyak készítésére. Munkája során precíz mozdulatokkal formálja a fát, hogy egyedi mintákat hozzon létre. A magyar népi művészet egyik legősibb ágának képviselője."
+  },
+  {
+    "title": "Borkészítő",
+    "location": "Tokaj",
+    "salary": 310000,
+    "id": "10",
+    "description": "A borkészítő a szőlő feldolgozásával és érlelésével foglalkozik. Tokaj híres édes borairól, amelyek különleges eljárással készülnek. A borkészítés türelmet és precizitást igénylő mesterség."
+  },
+  {
+    "title": "Fazekas",
+    "location": "Mohács",
+    "salary": 260000,
+    "id": "11",
+    "description": "A fazekas agyagból készít hagyományos edényeket és dísztárgyakat. A kerámiák kézzel formázottak és színpompás mintákkal díszítettek. Ezt a mesterséget generációkon keresztül adják tovább."
+  },
+  {
+    "title": "Biciklis futár",
+    "location": "Budapest",
+    "salary": 240000,
+    "id": "12",
+    "description": "A biciklis futár gyorsan és hatékonyan szállítja a csomagokat a városban. Ismeri a forgalmat és a leggyorsabb útvonalakat. Munkája dinamikus és jó fizikai állóképességet igényel."
+  },
+  {
+    "title": "Méhész",
+    "location": "Zala megye",
+    "salary": 270000,
+    "id": "13",
+    "description": "A méhész méhkaptárakat gondoz és kiváló minőségű mézet állít elő. A beporzás segítésével hozzájárul a természet egyensúlyához. Munkája időszakos, de nagy odafigyelést és szakértelmet igényel."
+  }
 ]
